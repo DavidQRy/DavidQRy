@@ -67,16 +67,16 @@ I enjoy building modern applications, from **frontend design** to **backend logi
   <a href="mailto:davidgui393@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-link" target="_blank">
+  <a href="www.linkedin.com/in/david-quintero-978803377" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/your-username" target="_blank">
+  <a href="https://www.instagram.com/davidquintero6858" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://x.com/your-username" target="_blank">
+  <a href="https://x.com/Yonardo067" target="_blank">
     <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="https://github.com/TU_USUARIO" target="_blank">
+  <a href="https://github.com/DavidQRy" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
