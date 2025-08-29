@@ -60,8 +60,8 @@ I enjoy building modern applications, from **frontend design** to **backend logi
 
 ---
 
-## 📫 How to reach me  ![gifstats](https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif)
-## 📫 Connect with me  
+## 📫 How to reach me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">
+## 📫 Connect with me  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">
 
 <p align="left">
   <a href="mailto:davidgui393@gmail.com" target="_blank">
