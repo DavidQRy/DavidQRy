@@ -60,7 +60,7 @@ I enjoy building modern applications, from **frontend design** to **backend logi
 
 ---
 
-## 📫 How to reach me  
+## 📫 How to reach me  ![gifstats](https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif)
 ## 📫 Connect with me  
 
 <p align="left">
