@@ -67,7 +67,7 @@ I enjoy building modern applications, from **frontend design** to **backend logi
   <a href="mailto:davidgui393@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/david-quintero-978803377" target="_blank">
+  <a href="[www.linkedin.com/in/david-quintero-978803377](https://www.linkedin.com/in/david-quintero-978803377)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/davidquintero6858" target="_blank">
